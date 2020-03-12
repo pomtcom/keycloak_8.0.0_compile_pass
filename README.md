@@ -1,3 +1,7 @@
+To compile, go to location of .pom file
+then execute mvn clean install -X
+
+
 # Keycloak
 
 Keycloak is an Open Source Identity and Access Management solution for modern Applications and Services.
