@@ -99,7 +99,7 @@
         <wildfly.common.version>1.5.1.Final</wildfly.common.version>
         <ua-parser.version>1.4.3</ua-parser.version>        
         <picketbox.version>5.0.3.Final</picketbox.version>
-        <google.guava.version>25.0-jre</google.guava.version>
+        <google.guava.version>29.0-jre</google.guava.version>
 
         <!-- Authorization Drools Policy Provider -->
         <version.org.drools>7.11.0.Final</version.org.drools>
